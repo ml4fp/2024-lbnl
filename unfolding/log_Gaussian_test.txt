@@ -1,0 +1,8 @@
+195 training steps at reco and 195 steps at gen
+ITERATION: 1
+RUNNING STEP 1
+Last val loss 6.253979206085205
+INFO: Dumping training history ...
+RUNNING STEP 2
+Last val loss 5.121763706207275
+INFO: Dumping training history ...
