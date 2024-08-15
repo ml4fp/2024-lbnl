@@ -1,0 +1,13 @@
+{
+    'FILES_':'PUMMLEventsBymH_Mu140.h5',
+    'FILES':'PUMMLEventsByMu_mH500.h5',
+    'SHAPE':[-1,1000,6],
+    'BATCH':256,
+    'LR':1e-3,
+    'MAXEPOCH':200,
+    'EARLYSTOP':20,
+    'NSWD':4,
+    'NPART':1000,
+    'PREPFILE':'preprocessing_raw.json',
+    'CHECKPOINT_NAME':'SWDPU_PUMML'
+}
