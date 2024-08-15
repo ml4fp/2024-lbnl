@@ -1,4 +1,6 @@
-# Quantization Demo
+# Efficiednt Machine Learning 
+
+## Quantization and Pruning Demo
 
 This repository contains simple notebooks to demonstrate post-training quantization using [qkeras](https://github.com/google/qkeras) and [TensoFlow modeloptimization](https://www.tensorflow.org/model_optimization/api_docs/python/tfmot/sparsity/keras/prune_low_magnitude).
 
