@@ -281,7 +281,7 @@ def ABCNet(npoint,nfeat=1,momentum=0.99):
     return inputs,outputs
 
 
-def SWD(y_true, y_pred,nprojections=128):
+def SWD(y_true, y_pred,nprojections=32):
     pu_pfs = y_true[:,:,:y_true.shape[2]//2]
     nopu_pfs = y_true[:,:,y_true.shape[2]//2:]
  
