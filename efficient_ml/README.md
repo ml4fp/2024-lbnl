@@ -1,4 +1,4 @@
-# Efficiednt Machine Learning 
+# Efficient Machine Learning 
 
 ## Quantization and Pruning Demo
 
